@@ -1,25 +1,23 @@
-## Juan1Diazr 👋
-
-
-💻 **Backend Developer | Azure & Cloud Enthusiast | Student at Uniminuto**  
-📍 Colombia
+## Juan1Diazr   
+##                            💻 **Backend Developer | Azure & Cloud Enthusiast | Student at Uniminuto**  
+                                                            📍 Colombia
 
 ---
 
-## 📌 About Me
+##                                                        📌 About Me
 
-- 📚 Studying to become a Backend Developer specialized in **Azure Cloud**.  
-- 🏫 Software Development student at **Uniminuto University** in Colombia.  
-- 💻 Strong focus on **backend development** and **cloud-based solutions**.  
-- 📂 Built an internal **File Management Intranet** for a company.  
-- 🚀 Preparing for **Microsoft Azure Fundamentals (AZ-900)** certification.  
-- 🖥 Languages: **JavaScript, Python, SQL**.  
-- ⚙ Databases: **MySQL, PostgreSQL, MongoDB**.  
-- 📘 Currently learning **API design**, **authentication**, and **cloud deployment** on Azure.
+       - 📚 Studying to become a Backend Developer specialized in **Azure Cloud**.  
+       - 🏫 Software Development student at **Uniminuto University** in Colombia.  
+       - 💻 Strong focus on **backend development** and **cloud-based solutions**.  
+       - 📂 Built an internal **File Management Intranet** for a company.  
+       - 🚀 Preparing for **Microsoft Azure Fundamentals (AZ-900)** certification.  
+       - 🖥 Languages: **JavaScript, Python, SQL**.  
+       - ⚙ Databases: **MySQL, PostgreSQL, MongoDB**.  
+       - 📘 Currently learning **API design**, **authentication**, and **cloud deployment** on Azure.
 
 ---
 
-## 🛠 Technologies
+##                                                       🛠 Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,19 +27,19 @@
 
 ---
 
-## 📂 Projects
+##                                                         📂 Projects
 
-### 🔹 Quotation System
-Internal application with PDF generation, developed in **Node.js** to speed up business processes.  
-**Technologies:** Node.js, JavaScript, SQL  
+###   🔹 Quotation System
+          Internal application with PDF generation, developed in **Node.js** to speed up business processes.  
+##       **Technologies:** Node.js, JavaScript, SQL  
 
 ### 🔹 File Management Intranet
-Local intranet system for organizing, storing, and managing internal company files efficiently.  
-**Technologies:** Node.js, Express, SQL  
+          Local intranet system for organizing, storing, and managing internal company files efficiently.  
+##       **Technologies:** Node.js, Express, SQL  
 
 ---
 
-## 📫 Connect With Me
+##                                                      📫 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/jua.ndiaz102">
@@ -60,4 +58,4 @@ Local intranet system for organizing, storing, and managing internal company fil
 
 ---
 
-© 2025 **Juan Díaz** | All rights reserved
+##                                                © 2025 **Juan Díaz** | All rights reserved
