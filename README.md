@@ -39,6 +39,10 @@ Local intranet system for organizing, storing, and managing internal company fil
 <em>Technologies:</em> Node.js, Express, SQL  
 
 ---
+##   Stats Github
+<p align="center">
+  <img> 
+</p>
 
 ## 📫 Connect With Me
 
