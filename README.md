@@ -14,7 +14,9 @@
 <li>🏫 Software Development student at <strong>Uniminuto University</strong> in Colombia.</li>
 <li>💻 Strong focus on <strong>backend development</strong> and <strong>cloud-based solutions</strong>.</li>
 <li>📂 Built an internal <strong>File Management Intranet</strong> for a company.</li>
-<li>🚀 Preparing for <strong>Microsoft Azure Fundamentals (AZ-900)</strong> certification.</li>
+<li>🚀<strong>Microsoft Azure Fundamentals (AZ-900)</strong> certification.</li>
+<li>🚀<strong>Microsoft Azure AI Fundamentals (AI-900)</strong> certification.</li>
+<li>🚀<strong>Microsoft Azure Data Fundamentals (DP-900)</strong> certification.</li>
 <li>🖥 Languages: <strong>JavaScript, Python, SQL</strong>.</li>
 <li>⚙ Databases: <strong>MySQL, PostgreSQL, MongoDB</strong>.</li>
 <li>📘 Currently learning <strong>API design</strong>, <strong>authentication</strong>, and <strong>cloud deployment</strong> on Azure.</li>
