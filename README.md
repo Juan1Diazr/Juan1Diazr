@@ -3,7 +3,7 @@
 
 
 
-💻 <strong>Backend Developer | Azure & Cloud Enthusiast | Student at Uniminuto</strong>  
+💻 <strong>Backend Developer | Azure & Cloud Enthusiast |</strong>  
 📍 Colombia  
 
 ---
